@@ -1,0 +1,9 @@
+D:\project.stu\netcore\simpleddd\bookstore.utils\bin\Debug\netstandard2.0\bookstore.utils.deps.json
+D:\project.stu\netcore\simpleddd\bookstore.utils\bin\Debug\netstandard2.0\bookstore.utils.dll
+D:\project.stu\netcore\simpleddd\bookstore.utils\bin\Debug\netstandard2.0\bookstore.utils.pdb
+D:\project.stu\netcore\simpleddd\bookstore.utils\obj\Debug\netstandard2.0\bookstore.utils.csprojAssemblyReference.cache
+D:\project.stu\netcore\simpleddd\bookstore.utils\obj\Debug\netstandard2.0\bookstore.utils.csproj.CoreCompileInputs.cache
+D:\project.stu\netcore\simpleddd\bookstore.utils\obj\Debug\netstandard2.0\bookstore.utils.AssemblyInfoInputs.cache
+D:\project.stu\netcore\simpleddd\bookstore.utils\obj\Debug\netstandard2.0\bookstore.utils.AssemblyInfo.cs
+D:\project.stu\netcore\simpleddd\bookstore.utils\obj\Debug\netstandard2.0\bookstore.utils.dll
+D:\project.stu\netcore\simpleddd\bookstore.utils\obj\Debug\netstandard2.0\bookstore.utils.pdb
