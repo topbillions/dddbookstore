@@ -5,6 +5,6 @@ namespace bookstore.core.model
     /// </summary>
     public class Store
     {
-        
+        public string Name { get; }
     }
 }
