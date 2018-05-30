@@ -7,6 +7,11 @@ namespace bookstore.core.except
     /// </summary>
     public class BizException : Exception
     {
-        public int StatusCode { get; }
+        public BizException(string message) 
+            : base(message){ }
+
+        public static void throwError(string message){
+            throw new BizException(message);
+        }
     }
 }

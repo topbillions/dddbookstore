@@ -1,28 +1,24 @@
 namespace bookstore.core.model
 {
-    using utils;
     using validation;
 
     /// <summary>
-    /// 书本
+    /// 订单
     /// </summary>
-    public class Book : Validatable
+    public class Order : Validatable
     {
+        public Order(User user, params Book[] books){
+            
+        }
 
         public bool isValid()
         {
-            if(this.Name.isNullOrEmpty()){
-                return false;
-            }
-
-            return true;
+            throw new System.NotImplementedException();
         }
 
         public void verify()
         {
             throw new System.NotImplementedException();
         }
-
-        public string Name { get; }
     }
 }

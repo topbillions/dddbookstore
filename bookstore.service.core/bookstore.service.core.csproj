@@ -1,5 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+    <ProjectReference Include="..\bookstore.core\bookstore.core.csproj" />
+    <ProjectReference Include="..\bookstore.infrastructure\bookstore.dao\bookstore.dao.csproj" />
+    <ProjectReference Include="..\bookstore.utils\bookstore.utils.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>

@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/bootstore.ui/bootstore.console/bootstore.console.csproj"
+                "${workspaceFolder}/bookstore.ui/bookstore.console/bookstore.console.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
