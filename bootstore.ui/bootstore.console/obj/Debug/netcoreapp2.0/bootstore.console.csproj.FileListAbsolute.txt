@@ -1,0 +1,11 @@
+D:\project.stu\netcore\simpleddd\bootstore.ui\bootstore.console\bin\Debug\netcoreapp2.0\bootstore.console.deps.json
+D:\project.stu\netcore\simpleddd\bootstore.ui\bootstore.console\bin\Debug\netcoreapp2.0\bootstore.console.runtimeconfig.json
+D:\project.stu\netcore\simpleddd\bootstore.ui\bootstore.console\bin\Debug\netcoreapp2.0\bootstore.console.runtimeconfig.dev.json
+D:\project.stu\netcore\simpleddd\bootstore.ui\bootstore.console\bin\Debug\netcoreapp2.0\bootstore.console.dll
+D:\project.stu\netcore\simpleddd\bootstore.ui\bootstore.console\bin\Debug\netcoreapp2.0\bootstore.console.pdb
+D:\project.stu\netcore\simpleddd\bootstore.ui\bootstore.console\obj\Debug\netcoreapp2.0\bootstore.console.csprojAssemblyReference.cache
+D:\project.stu\netcore\simpleddd\bootstore.ui\bootstore.console\obj\Debug\netcoreapp2.0\bootstore.console.csproj.CoreCompileInputs.cache
+D:\project.stu\netcore\simpleddd\bootstore.ui\bootstore.console\obj\Debug\netcoreapp2.0\bootstore.console.AssemblyInfoInputs.cache
+D:\project.stu\netcore\simpleddd\bootstore.ui\bootstore.console\obj\Debug\netcoreapp2.0\bootstore.console.AssemblyInfo.cs
+D:\project.stu\netcore\simpleddd\bootstore.ui\bootstore.console\obj\Debug\netcoreapp2.0\bootstore.console.dll
+D:\project.stu\netcore\simpleddd\bootstore.ui\bootstore.console\obj\Debug\netcoreapp2.0\bootstore.console.pdb
